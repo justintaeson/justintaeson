@@ -19,7 +19,8 @@ Digital Media Planner :arrow_right: Negotiator :arrow_right: Client Success Mana
 
 ### Let's Connect :handshake:
 
-
+Email: justintaeson@gmail.com
+LinkedIn: https://www.linkedin.com/in/justinson/
 
 <!--
 **justintaeson/justintaeson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
