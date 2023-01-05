@@ -3,7 +3,7 @@
 
 ### 👋 ...hi there 
 
-### :computer: ...my name is Justin & I'm a software developer @ [Dubsado](https://www.dubsado.com/)
+### :computer: ...my name is Justin & I'm a software developer
 
 ### :handshake: ...let's connect
 
